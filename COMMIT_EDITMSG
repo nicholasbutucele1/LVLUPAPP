@@ -1,0 +1,7 @@
+Improve user login process and fix errors in environments without browser access
+
+Adds browser environment checks to localStorage calls and wraps App in StrictMode.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: eb72c625-b95d-40cf-8e85-f83308f82f2b
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/cccf68ac-7456-4510-b813-f107b4d576dc/66df3b98-99ba-4c0f-8049-a4903e70e095.jpg
